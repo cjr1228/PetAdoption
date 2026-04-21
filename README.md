@@ -17,13 +17,6 @@
 编译器：jdk 1.8
 数据库：mysql 8 、redis
 
-#### 使用说明
-
-1. 使用idea把项目拉取到本地。
-2. 执行sql脚本，初始数据库数据。
-3. 配置文件application.yml，修改数据库连接信息
-4. 通过启动类PetsAdoptionApplication的main方法启动程序。
-5. 访问路径：http://localhost:8080/web/page/login/login.html（地址端口按照自己设置的）
 
 #### 系统运行逻辑：
 ![输入图片说明](%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91.png)
