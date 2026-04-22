@@ -12,11 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.io.IOException;
 import java.sql.SQLException;
 
-/**
- * 作者： lurenjia
- * 时间： 2023/3/16-15:50
- * 描述： 全局异常处理器，截获指定控制器类抛出的异常，底层使用aop
- */
+
 @ControllerAdvice(annotations = {RestController.class, Controller.class})
 @ResponseBody
 @Slf4j
