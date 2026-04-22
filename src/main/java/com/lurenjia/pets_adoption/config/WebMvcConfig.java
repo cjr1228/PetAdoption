@@ -19,11 +19,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 import java.util.List;
 
-/**
- * 作者： lurenjia
- * 时间： 2023/3/16-8:56
- * 描述： 配置springmvc
- */
+
 @Slf4j
 @Configuration
 @EnableSwagger2
