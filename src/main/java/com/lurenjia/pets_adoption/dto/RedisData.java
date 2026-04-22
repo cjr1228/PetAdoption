@@ -3,11 +3,7 @@ package com.lurenjia.pets_adoption.dto;
 import lombok.Data;
 
 import java.time.LocalDateTime;
-/**
- * @author lurenjia
- * @date 2023/4/21-11:54
- * @description 带有逻辑过期时间的缓存对象
- */
+
 @Data
 public class RedisData{
     /**
