@@ -16,14 +16,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpSession;
 import java.time.LocalDate;
 
-/**
- * <p>
- * 前端控制器
- * </p>
- *
- * @author lurenjia
- * @since 2023-03-25
- */
+
 @RestController
 @RequestMapping("/pets")
 @Slf4j
