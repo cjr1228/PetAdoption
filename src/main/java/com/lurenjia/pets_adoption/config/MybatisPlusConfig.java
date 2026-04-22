@@ -5,11 +5,7 @@ import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerIntercept
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * 作者： lurenjia
- * 时间： 2023/3/16-16:12
- * 描述： mybatisplus的配置
- */
+
 @Configuration
 public class MybatisPlusConfig {
 
