@@ -5,11 +5,7 @@ import com.lurenjia.pets_adoption.entity.Pets;
 import com.lurenjia.pets_adoption.entity.Users;
 import lombok.Data;
 
-/**
- * @author lurenjia
- * @date 2023/3/27-21:14
- * @description 领养记录
- */
+
 @Data
 public class AdoptionLogsDTO extends Adoptions {
 
