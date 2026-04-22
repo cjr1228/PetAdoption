@@ -2,11 +2,6 @@ package com.lurenjia.pets_adoption.dto;
 
 import lombok.Data;
 
-/**
- * @author lurenjia
- * @date 2023/3/26-22:15
- * @description 申请领养的请求数据
- */
 @Data
 public class AdoptionDTO {
     /**
