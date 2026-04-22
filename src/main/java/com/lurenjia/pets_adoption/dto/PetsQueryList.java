@@ -5,11 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author lurenjia
- * @date 2023/4/21-12:30
- * @description 宠物页码查询条件
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
