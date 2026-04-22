@@ -15,14 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * <p>
- * 前端控制器
- * </p>
- *
- * @author lurenjia
- * @since 2023-03-25
- */
+
 @RestController
 @Slf4j
 @RequestMapping("/adoptions")
