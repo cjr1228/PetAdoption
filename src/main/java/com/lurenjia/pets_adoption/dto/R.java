@@ -4,11 +4,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * 作者： lurenjia
- * 时间： 2023/3/16-11:10
- * 描述： 响应数据格式
- */
+
 @Data
 public class R<T> implements Serializable {
 
