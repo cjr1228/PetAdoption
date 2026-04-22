@@ -22,11 +22,7 @@ import java.util.Arrays;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * 作者： lurenjia
- * 时间： 2023/3/18-20:54
- * 描述： 文件上传下载的控制器
- */
+
 @RestController
 @RequestMapping("/common")
 @EnableCaching
